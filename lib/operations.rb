@@ -1,7 +1,7 @@
  
 def unsafe?(speed)
 speed =79
-puts speed=true
+puts "true"
   
 
 
