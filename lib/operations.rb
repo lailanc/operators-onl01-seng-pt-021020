@@ -1,6 +1,7 @@
  
 def unsafe?(speed)
-speed =79
+puts "60"
+  jewels_in_bag = jewels_in_bag - 10
 
   
 
